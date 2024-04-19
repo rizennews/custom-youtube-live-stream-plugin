@@ -1,0 +1,48 @@
+# YouTube Live Stream Plugin
+
+The YouTube Live Stream Plugin allows you to embed live streams from YouTube onto your WordPress website.
+
+## Features
+
+- Embed YouTube live streams with a simple shortcode.
+- Customize the appearance and behavior of the embedded live streams.
+- Settings page to configure YouTube API Key and Channel ID.
+- Widget support for easy integration into your website's sidebar or other widgetized areas.
+
+## Installation
+
+1. Download the plugin ZIP file from the [latest release](https://github.com/rizennews/youtube-live-stream-plugin/releases).
+2. Upload the plugin ZIP file to your WordPress website.
+3. Activate the plugin through the WordPress admin dashboard.
+
+## Usage
+
+### Shortcode
+
+Use the following shortcode to embed a YouTube live stream on any page or post:
+[youtube_live_stream]
+
+
+### Widget
+
+You can also add the "YouTube Live Stream Widget" to your website's sidebar or other widgetized areas. Navigate to Appearance > Widgets and drag the "YouTube Live Stream Widget" to the desired widget area. 
+
+### Settings
+
+Navigate to Settings > YouTube Live Stream Settings to configure your YouTube API Key and Channel ID.
+
+## Compatibility
+
+This plugin is compatible with a wide range of WordPress themes and plugins. If you encounter any compatibility issues, please reach out to the plugin support team for assistance.
+
+## Feedback
+
+We welcome your feedback! If you have any suggestions or encounter any issues while using the plugin, please [submit a support ticket](https://github.com/rizennews/custom-youtube-live-stream-plugin/issues/new).
+
+## Contributing
+
+Contributions to the development of this plugin are welcome. To contribute, fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This plugin is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
