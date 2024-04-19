@@ -45,7 +45,7 @@ function checkYouTubeLiveStreamCompatibility() {
     // Check if the yt-live-stream plugin is active
     if (is_plugin_active('yt-live-stream/yt-live-stream.php')) {
         // Provide guidance on using the plugin with the yt-live-stream plugin
-        echo '<p>For compatibility with the yt-live-stream plugin, ensure that the plugin settings are configured correctly in the yt-live-stream settings page.</p>';
+        echo '<p>For compatibility with the yt-live-stream plugin, ensure that the plugin settings are configured correctly in the YouTube Live stream settings page.</p>';
     }
 
     // Add more compatibility checks as needed
