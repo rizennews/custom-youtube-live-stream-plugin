@@ -40,4 +40,9 @@ function displayYouTubeLiveStream() {
     }
 }
 
+// Shortcode to display YouTube Live stream
+function youtubeLiveStreamShortcode() {
+    return displayYouTubeLiveStream();
+}
+add_shortcode('youtube_live_stream', 'youtubeLiveStreamShortcode');
 
