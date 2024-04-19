@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: YouTube Live Stream Plugin
-Plugin URI: https://example.com
-Description: Custom Plugin to embed live streams from YouTube.
+Plugin URI: https://github.com/rizennews/custom-youtube-live-stream-plugin/
+Description: Embed live streams from YouTube effortlessly on your WordPress website with the YouTube Live Stream Plugin. Customize the appearance and behavior of your embedded streams using simple shortcodes and widget options. Stay connected with your audience in real-time and enhance your website's engagement with this easy-to-use plugin.
 Version: 1.0
-Author: Your Name
-Author URI: https://example.com
+Author: Padmore Aning
+Author URI: https://github.com/rizennews
 */
 
 // Include plugin settings page
