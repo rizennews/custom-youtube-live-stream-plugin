@@ -78,3 +78,16 @@ function displayYouTubeFeedbackForm() {
     <?php
 }
 
+// Shortcode to display YouTube Live stream and feedback form
+function youtubeLiveStreamWithFeedbackShortcode() {
+    $output = '<div class="livestream-container">';
+    $output .= displayYouTubeLiveStream();
+    $output .= '</div>';
+    $output .= '<div class="feedback-form-container">';
+    $output .= displayYouTubeFeedbackForm();
+    $output .= '</div>';
+
+    return $output;
+}
+add_shortcode('youtube_live_stream_with_feedback', 'youtubeLiveStreamWithFeedbackShortcode');
+
