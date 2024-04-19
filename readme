@@ -22,6 +22,9 @@ The YouTube Live Stream Plugin allows you to embed live streams from YouTube ont
 Use the following shortcode to embed a YouTube live stream on any page or post:
 [youtube_live_stream]
 
+Use the following shortcode to display the Facebook live stream and feedback form together on any post or page:
+[youtube_live_stream_with_feedback]
+
 
 ### Widget
 
