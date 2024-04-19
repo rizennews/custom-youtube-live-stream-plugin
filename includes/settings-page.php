@@ -23,6 +23,8 @@ function youtube_live_stream_plugin_settings_page_content() {
         </form>
         <p>To display the YouTube Live stream on your website, use the following shortcode on any page or post:</p>
         <pre>[youtube_live_stream]</pre>
+        <p>To display the YouTube Live stream and feedback form on your website, use the following shortcode on any page or post:</p>
+        <pre>[youtube_live_stream_with_feedback]</pre>
         <p>Make sure to configure your YouTube API Key and Channel ID below.</p>
         <p>If you find this plugin helpful, consider buying us a coffee!</p>
         <a href="https://www.buymeacoffee.com/designolabs" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20us%20a%20coffee&emoji=&slug=yourusername&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff">
